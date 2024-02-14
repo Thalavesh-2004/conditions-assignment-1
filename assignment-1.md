@@ -4,7 +4,7 @@ ANS: Output is : 0
 
 Q2. Find the output for this code. Let input:- 3 2.
 
-ANS: Compilation error.
+ANS: 1 1.
 
 Q3. Find the output for this code. Let input:- 2 3.
 
